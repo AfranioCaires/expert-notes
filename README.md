@@ -1,6 +1,3 @@
-
-<p align="center">Expert - Notes</p>
-
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Notes" src="./.github/preview.png" width="100%">
+  <img alt="Projeto Notes" src="./.github/preview-img.png" width="100%">
 </p>
 
 ## 💻 Projeto
