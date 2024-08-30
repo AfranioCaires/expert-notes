@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="./.github/nlw-expert-logo.svg" style="max-width: 200px" />
-</p>
 
-<p align="center">NLW #14 Expert - Notes</p>
+<p align="center">Expert - Notes</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,8 +26,6 @@ Diferente de outros aplicativos de notas, o Notes é uma aplicação em que voc�
 
 Além disso, criamos um aplicativo responsivo, aprendendo sobre estilização e responsividade. Foi abordado também a acessibilidade da aplicação e a criação de modais.
 
-Este é um projeto desenvolvido em aula no evento NLW expert, um evento gratuito em programação, promovido pela [Rocketseat](https://www.rocketseat.com.br).
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -53,7 +48,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Clone este repositório
 
 ```bash
-git clone https://github.com/afraniocaires/nlw-expert-notes.git
+git clone https://github.com/afraniocaires/expert-notes.git
 ```
 
 Acesse o diretório da aplicação
